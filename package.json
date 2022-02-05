@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/torbjornseland/torbjornseland.github.io/issues"
   },
-  "homepage": "https://github.com/torbjornseland/torbjornseland.github.io#readme"
+  "homepage": "https://torbjornseland.github.io/torbjornseland.github.io",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
